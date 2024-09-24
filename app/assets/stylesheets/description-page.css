@@ -3,3 +3,12 @@
     margin-left: 40px;
     margin-right: 40px;
 }
+
+h1 {
+    border: solid 2px red;
+}
+
+
+a {
+    border: solid 2px red;
+}
